@@ -11,7 +11,7 @@ date-released: "2026-11-08"
 repository-code: "https://github.com/chemist2coder/ion-balance-automation"
 url: "https://github.com/chemist2coder/ion-balance-automation"
 license: CC-BY-NC-4.0
-# doi: 10.5281/zenodo.XXXXXXX   # добавьте после получения DOI через Zenodo
+doi: 10.5281/zenodo.24060112
 keywords:
   - ion chromatography
   - ion balance
