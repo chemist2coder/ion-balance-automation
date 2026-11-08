@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Если вы используете этот код, пожалуйста, процитируйте как указано ниже. / If you use this software, please cite it as below."
+title: "Ion Chromatography Data Processing Automation (Ion Balance Automation)"
+type: software
+authors:
+  - family-names: Boyko
+    given-names: Victor
+    affiliation: "Independent Researcher"
+    # orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX   # добавьте ORCID при наличии
+version: 1.0.0
+date-released: "2026-11-08"
+repository-code: "https://github.com/chemist2coder/ion-balance-automation"
+url: "https://github.com/chemist2coder/ion-balance-automation"
+license: CC-BY-NC-4.0
+# doi: 10.5281/zenodo.XXXXXXX   # добавьте после получения DOI через Zenodo
+keywords:
+  - ion chromatography
+  - ion balance
+  - water analysis
+  - hydrochemistry
+  - ETL pipeline
+  - data processing
+  - pandas
+  - laboratory automation
