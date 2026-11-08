@@ -30,7 +30,7 @@ Before running, install the required libraries: `conda env create -f environment
 **Step 2. `02_balance_calc.ipynb` (the mathematical calculation)**
 - **Input:** `clean_data.xlsx`.
 - **Action:** iterates over combinations, searches for ion-balance convergence, computes sodium by difference, and detects anomalies.
-- **Output:** two files: `Final_Balance_*.xlsx` (successful samples) and `Errors_and_Recommendations_*.xlsx` (problematic samples). The `*` is replaced by a timestamp in the "Y-M-D_H-M-S" format.
+- **Output:** two files: `Final_Balance_*.xlsx` (successful samples) and `Errors_and_Recommendations_*.xlsx` (problematic samples). The `*` is replaced by a timestamp in the "YYYY-MV-DD_H-M-S" format.
 
 **Step 3. `03_summary_report.ipynb` (report generation)**
 - **Input:** the script automatically finds the most recent `Final_Balance_*.xlsx` in the folder, so there is no need to edit file paths by hand.
