@@ -1,7 +1,5 @@
 # Ion Chromatography Data Processing Automation (Ion Balance Automation)
 
-Hi! I'm a beginner coder, **chemist2coder**. By education I'm a chemist with 20 years of experience who uses Python to automate routine laboratory tasks.
-
 *Русская версия — [README.ru.md](README.ru.md).*
 
 ## About the project
