@@ -1,5 +1,7 @@
 # Автоматизация обработки данных ионной хроматографии (Ion Balance Automation)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24060112.svg)](https://doi.org/10.5281/zenodo.24060112)
+
 *Русская версия. Основной README — на английском: [README.md](README.md).*
 
 ## О проекте
