@@ -1,5 +1,7 @@
 # Ion Chromatography Data Processing Automation (Ion Balance Automation)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24060112.svg)](https://doi.org/10.5281/zenodo.24060112)
+
 *Русская версия — [README.ru.md](README.ru.md).*
 
 ## About the project
