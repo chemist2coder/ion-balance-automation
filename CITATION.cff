@@ -6,7 +6,6 @@ authors:
   - family-names: Boyko
     given-names: Victor
     affiliation: "Independent Researcher"
-    # orcid: https://orcid.org/XXXX-XXXX-XXXX-XXXX   # добавьте ORCID при наличии
 version: 1.0.0
 date-released: "2026-11-08"
 repository-code: "https://github.com/chemist2coder/ion-balance-automation"
